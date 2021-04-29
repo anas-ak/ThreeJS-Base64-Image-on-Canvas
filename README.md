@@ -1,4 +1,7 @@
 # ThreeJS-Base64-Image-on-Canvas
+
+<img src="baseimg.gif" />
+
 <p>
   Everything is in script.js <br />
   There are 3 main functions: 
